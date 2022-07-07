@@ -57,7 +57,7 @@ export default function Request() {
     setStartDate(request.startDate)
     setEndDate(request.endDate)
 
-    fetch(`http://localhost:8080/getWeather/?city=${city}&startDate=${startDate}&endDate=${endDate}`)
+    fetch(`https://mobileaction-final-backend.herokuapp.com/getWeather/?city=${city}&startDate=${startDate}&endDate=${endDate}`)
       .then(response => {
         if (response.status !== 200 && response.status !== 201) {
           togglePopup()
