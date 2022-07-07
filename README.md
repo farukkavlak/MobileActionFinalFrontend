@@ -1,5 +1,6 @@
 # 
-<h1 align="center">Mobile Action Final Project Frontend Part-Ömer Faruk Kavlak</h1>
+<h1 align="center">Mobile Action Final Project Frontend Part</h1>
+<h1 align="center">Ömer Faruk Kavlak</h1><br>
 
  <p align="center">
   &#8505; <a href="#demo">Demo</a> 
@@ -14,6 +15,7 @@
 https://github.com/farukkavlak/MobileActionFinalBackend
 
 ## Demo
+https://user-images.githubusercontent.com/79375232/177862782-31b369a8-f720-4ef1-8675-959cd1cfe7ec.mp4
 
 ## Project Details
 
