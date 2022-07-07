@@ -15,6 +15,7 @@
 https://github.com/farukkavlak/MobileActionFinalBackend
 
 ## Demo
+#### Since used free deployment services, there may be some delays in requests.
 https://user-images.githubusercontent.com/79375232/177862782-31b369a8-f720-4ef1-8675-959cd1cfe7ec.mp4
 
 ## Project Details
