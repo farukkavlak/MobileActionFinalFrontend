@@ -2,8 +2,7 @@
 <h1 align="center">Mobile Action Final Project Frontend Part-Ömer Faruk Kavlak</h1>
 
  <p align="center">
- 
- &#8505; <a href="#demo">Demo</a> 
+  &#8505; <a href="#demo">Demo</a> 
   &#8505; <a href="#project-details">Project Details</a> 
   &#8505; <a href="#technologies">Technologies</a> 
   &#8505; <a href="#project-requirements">Project Requirements</a> 
@@ -72,7 +71,12 @@ The main purpose of the application is to read the air pollution information(CO,
 <img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/getWeatherError.png"></img>
 <img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/getWeatherErrorLog.png"></img>
 
+#### Delete Weather
+<img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/deleteWeather.png"></img>
 
+#### Delete Weather Error - Doesn't Exists in DB 
+<img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/deleteWeatherError.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/deleteWeatherErrorLog.png"></img>
 
 
 
